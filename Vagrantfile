@@ -1,3 +1,5 @@
+#This is a multi vm file for yor feature reference
+
 Vagrant.configure("2") do |config|
 
 config.vm.define "server" do |server|
